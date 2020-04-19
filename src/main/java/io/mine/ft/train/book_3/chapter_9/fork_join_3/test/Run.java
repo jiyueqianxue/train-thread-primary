@@ -1,4 +1,4 @@
-package io.mine.ft.train.book_3.chapter_9.fork_join_2.test.run;
+package io.mine.ft.train.book_3.chapter_9.fork_join_3.test;
 
 import java.util.concurrent.ExecutionException;
 import java.util.concurrent.ForkJoinPool;
